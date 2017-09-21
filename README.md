@@ -1,2 +1,2 @@
 # TinkerFapOS
-TinkerFapOS - Debian 9 Based OS for Asus Tinker Board
+TinkerFapOS - Minimal, Modular OS for Asus Tinker Board and possible other ARMv7 SoC
